@@ -25,7 +25,7 @@ This trick forces Windows to hand off the deep link to the appropriate app — b
 ## 🧾 Example
 
 Since Telegram Desktop on Windows doesn’t support opening `v2box://` directly from mini app, instead you link the user to this page like so:
-https://maposia.github.io/redirect-page/?redirect_to=v2box://install-sub?url=URL&name=Sub
+https://seshistrikles.github.io/redirect-page-for-miniapp/?redirect_to=v2box://install-sub?url=URL&name=Sub
 The redirect page will handle it from there.
 
 ---
